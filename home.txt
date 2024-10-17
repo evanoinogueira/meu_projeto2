@@ -1,2 +1,3 @@
 Essa é uma linha de tetxto.
 Linha escrita na master
+Linha escrita na outra branch
